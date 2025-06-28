@@ -5,10 +5,6 @@
 
 
 
-<div align="center">  
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSweb&layout=compact&hide_border=true&title_color=FFC700&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/gustavo-rodrigues-5a7551252/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
